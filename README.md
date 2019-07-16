@@ -17,3 +17,13 @@ This repository contains the source code for the article
     cp .env.sample .env
     ```
 1. Set the environment variables inside the created `.env` file
+
+## Running
+
+1. Start the jupyter notebook:
+
+    ```bash
+    jupyter notebook
+    ```
+1. Go to the `notebooks` folder
+1. Open and run the notebook you want
