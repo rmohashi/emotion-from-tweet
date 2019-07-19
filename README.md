@@ -27,3 +27,5 @@ This repository contains the source code for the article
     ```
 1. Go to the `notebooks` folder
 1. Open and run the notebook you want
+
+***Note***: *Check the releases if you want the training step output files*
